@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#121110"/>
+  <!-- ruedas: aro grueso tipo neumático -->
+  <circle cx="16" cy="47" r="8" fill="none" stroke="#EFA83E" stroke-width="4.2"/>
+  <circle cx="46" cy="47" r="8" fill="none" stroke="#EFA83E" stroke-width="4.2"/>
+  <!-- cuerpo macizo: depósito + asiento + motor, para que se note volumen (no una bici) -->
+  <path d="M16 47c0-5 3-8 7-8h4l6-8c1.5-2 3-2.5 5-2.5h7c2.5 0 4 1 5.5 3l4 5.5c1 1.5 1.5 3 1.5 5.5v4h-6c-1-3-3.5-5-6.5-5s-5.5 2-6.5 5H29c-1-2.8-3-4.5-5.5-4.5S19 44 18 47h-2z"
+        fill="#EFA83E"/>
+  <!-- faro -->
+  <circle cx="45" cy="29" r="2.4" fill="#121110"/>
+  <!-- ejes -->
+  <circle cx="16" cy="47" r="2.4" fill="#121110"/>
+  <circle cx="46" cy="47" r="2.4" fill="#121110"/>
+</svg>
