@@ -34,6 +34,7 @@
 .cat-electrico{ --catA:#5FD6C0; --catB:#155246; }
 .cat-chasis{ --catA:#A9C46C; --catB:#3C4A1F; }
 .cat-general{ --catA:#C6C2B6; --catB:#3A382F; }
+.cat-diagnostico{ --catA:#E0A6C4; --catB:#5C2A42; }
 
 *{box-sizing:border-box;}
 html{scroll-behavior:smooth;}
