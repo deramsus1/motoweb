@@ -3,7 +3,7 @@
    Tema: "taller abierto de noche" — oscuro, con carruseles estilo streaming
    ========================================================================== */
 
-@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@600;800;900&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=IBM+Plex+Mono:wght@400;500;600&display=swap');
+/* Las fuentes se cargan como <link> en el <head> de cada página (más rápido que @import) */
 
 :root{
   --paper: #121110;
